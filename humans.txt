@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# sambit
+# TEAM
+    sambit sworup nayak -- development -- k49
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    sambit
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
